@@ -86,7 +86,7 @@ Install the latest version of Eclipse IDE for Java EE Developers from [eclipse.o
 ![Download latest](images/WASDevStartPage.jpg)
 
 - Download the zip file for the latest stable release, and unzip to your `{LAB_HOME}` directory. After unzip, your Liberty installation should be under `{LAB_HOME}/wlp`
-- Follow the instructions on the wasdev site to install WebSphere Developer Tools (WDT) - https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Liberty_Developer_Tools_for_Eclipse_2019-12_4.14
+- Follow the instructions on the wasdev web site to install WebSphere Developer Tools (WDT) - https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Liberty_Developer_Tools_for_Eclipse_2019-12_4.14
 - Install full Java EE 7 support: `{LAB_HOME}/wlp/bin/installUtility install --acceptLicense javaee-7.0`
 - Install full Java EE 8 support: `{LAB_HOME}/wlp/bin/installUtility install --acceptLicense javaee-8.0`
 
